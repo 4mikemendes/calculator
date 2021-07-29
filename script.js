@@ -1,8 +1,8 @@
 
 
-let num1 = 3
+let num1 = 4
 document.getElementById("munber1-el").textContent = num1
-let num2 = 3
+let num2 = 200
 document.getElementById("munber2-el").textContent = num2
 
 console.log(num2)
